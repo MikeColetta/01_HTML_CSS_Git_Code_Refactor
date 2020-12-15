@@ -1,4 +1,4 @@
-# 01_HTML_CSS_Git_Code_Refactorb
+# Horiseon-Code-Refactor
 
 ## Summary of Assignment
 
@@ -24,4 +24,3 @@ Created marketing-specialties class to consolidate the content section. I then r
 ## Credits
 
 HTML Semantic Elements (https://www.w3schools.com/html/html5_semantic_elements.asp)
-
