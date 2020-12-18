@@ -10,7 +10,7 @@ Now onto cleaning up the code itself. The first redundancy I took care of was th
 
 At this time I also added alt tags for accessibility. Most of the alt tags were fairly straight forward. The only problem I had involved adding an alt tag to the figure image. Since this was linked in the CSS file and not the HTML I decided to use the img element in HTML and keep the original "figure" class in CSS. That way I could add descriptive text in an "alt" element for accessibility.
 
-Created marketing-specialties class to consolidate the content section. I then replaced the div in the header to nav to follow the correct semantics. I also added a favicon for the website.
+Created marketing-specialties class to consolidate the content section. I then replaced the div in the header to nav to follow the correct semantics. I also added a favicon for the website. At this point I realized I did not need to name the class for the main image "figure" since semantically just using the "img" element in the HTML was correct. So I changed the class name to "main-image" so it would be clear for the user what element that class changes. 
 
 ## Link
 [Deployed Link](https://mikecoletta.github.io/Horiseon-Code-Refactor/)
