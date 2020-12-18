@@ -12,6 +12,8 @@ At this time I also added alt tags for accessibility. Most of the alt tags were 
 
 Created marketing-specialties class to consolidate the content section. I then replaced the div in the header to nav to follow the correct semantics. I also added a favicon for the website. At this point I realized I did not need to name the class for the main image "figure" since semantically just using the "img" element in the HTML was correct. So I changed the class name to "main-image" so it would be clear for the user what element that class changes. 
 
+The last step was to change the section tag to "main" since this was my main content. I then changed the divs nested in "main" to "section." I revised my "aside" element to match so the divs inside were changed to "section."
+
 ## Link
 [Deployed Link](https://mikecoletta.github.io/Horiseon-Code-Refactor/)
 
